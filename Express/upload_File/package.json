@@ -11,7 +11,7 @@
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
-    "express-fileupload": "^0.1.3",
+    "express-fileupload": "^1.1.9",
     "fileupload": "^1.0.0",
     "multer": "^1.3.0"
   }
